@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.manu-container{
+    background-color: rgb(48, 49, 49);
+    padding: 20px;
+    color: rgb(253, 250, 250);
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.logo-photo{
+    width: 200px;
+    
+}
+.banner{
+    width:  1350px;
+}
+ .banner{
+    width: 400px;
+ }
+ .banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    border: 2px solid black;
+    background-image: url("./Dim-Gray-Solid-Color-Background-Wallpaper-5120x2880\ \(1\).png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ .title{
+    font-size: 55px;
+    font-weight: bold;
+     
+
+ }
+ .description{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+ }
+ .btn{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+ }
+ .about-container{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   flex-direction: row-reverse;
+   padding: 10px;
+ }
+ .about-title{
+   text-align: center;
+   padding-top: 20px;
+    
+    
+ }
+ .box{
+   width: 230px;
+   height: 280px;
+   box-shadow: 4px 4px 15px gray;
+   background-color: black;
+   text-align: center;
+   padding: 15px;
+   color: white;
+ }
+ .icon{
+   width: 70px;
+ }
+ .box{
+   background-color: rgb(5, 5, 5);
+   margin-top: 10px;
+ }
+ .box-title{
+   padding: 10px;
+
+ }
+ .box-description{
+   padding: 5px;
+
+ }
+  .srevice-container{
+   display: flex;
+   justify-content: space-around;
+   padding: 20px;
+  }
